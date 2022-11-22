@@ -1,0 +1,32 @@
+{
+  "name": "ami-experiments",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Marcus-D-Forte/ami-experiments.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Marcus-D-Forte/ami-experiments/issues"
+  },
+  "homepage": "https://github.com/Marcus-D-Forte/ami-experiments#readme",
+  "dependencies": {
+    "ami.js": "^0.0.22",
+    "dat.gui": "^0.7.9",
+    "three": "^0.146.0",
+    "vite": "^3.2.4",
+    "yarn": "^1.22.19"
+  },
+  "devDependencies": {
+    "typescript": "^4.9.3"
+  }
+}
